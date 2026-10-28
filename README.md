@@ -12,6 +12,17 @@ Big Walk headless as a dedicated server on the phone.
 
 ---
 
+## 📸 Screenshots
+| Setup | World | Server (live) |
+|:---:|:---:|:---:|
+| ![Setup](setup.png) | ![World](world.png) | ![Server](server.png) |
+
+## 📖 Full tutorial
+New here? Follow the complete step-by-step guide in **[TUTORIAL.md](TUTORIAL.md)** — from copying
+the game onto your phone, through setup, hosting, how friends join, internet play, troubleshooting and FAQ.
+
+---
+
 ## ✨ Features
 - **One-tap setup** — copy your plain Steam game folder onto the phone and tap *Set up the game mod*; the app installs BepInEx + the Direct Host plugin for you. No PC modding.
 - **Join by 6-letter code** (Epic lobby) — friends on PC or console type it in Big Walk's Join menu, nothing extra to install.
