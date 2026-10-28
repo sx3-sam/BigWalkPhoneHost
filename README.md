@@ -15,7 +15,7 @@ Big Walk headless as a dedicated server on the phone.
 ## 📸 Screenshots
 | Setup | World | Server (live) |
 |:---:|:---:|:---:|
-| ![Setup](setup.png) | ![World](world.png) | ![Server](server.png) |
+| ![Setup](setup.png?v=2) | ![World](world.png?v=2) | ![Server](server.png?v=2) |
 
 ## 📖 Full tutorial
 New here? Follow the complete step-by-step guide in **[TUTORIAL.md](TUTORIAL.md)** — from copying

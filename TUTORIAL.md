@@ -64,7 +64,7 @@ This is the one manual step, and it only happens once.
 ---
 
 ## 4. Setup tab — get everything ready
-![Setup tab](setup.png)
+![Setup tab](setup.png?v=2)
 
 The Setup tab shows three cards. Work top to bottom; each turns green ✓ when it's done.
 
@@ -83,7 +83,7 @@ When the banner reads **"Everything's ready to host"**, tap **Pick a world**.
 ---
 
 ## 5. World tab — choose what to host
-![World tab](world.png)
+![World tab](world.png?v=2)
 
 - **Your worlds** — pick a saved world from `Download/BigWalkSaves`, or choose **Fresh world**
   (plays but keeps nothing). Use **Import** to add a `.sav`, **Share** to export one.
@@ -102,7 +102,7 @@ Tap **Save**, or **Save and start** to jump straight to hosting.
 ---
 
 ## 6. Server tab — go live
-![Server tab](server.png)
+![Server tab](server.png?v=2)
 
 1. Tap **Start server**. The first start takes about **two minutes** (Wine boots, the game loads,
    the plugin opens the lobby).
