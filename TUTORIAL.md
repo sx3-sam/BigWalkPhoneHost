@@ -25,10 +25,12 @@ A step-by-step guide to hosting a **Big Walk** world from your Android phone, fr
 ---
 
 ## 1. What you need
-- **An Android phone.** A Snapdragon-class chip is recommended (developed and tested on a
-  Snapdragon 680). Keep it **plugged in** while hosting — the server uses the CPU continuously.
+- **An Android phone with ~6 GB RAM minimum (8 GB recommended).** The server needs ~2.4 GB of RAM to run,
+  so **phones with 4 GB or less crash when you start the server** — it's a hard limit, not a bug. A
+  Snapdragon-class chip is recommended (developed and tested on a Snapdragon 680). Keep it **plugged in**
+  while hosting — the server uses the CPU continuously.
 - **Your own copy of Big Walk** from Steam, on your PC.
-- **~2 GB free storage** on the phone (game + the app's Wine/Box64 layer).
+- **~6 GB free storage** on the phone (the game copy plus the app's Wine/Box64 layer).
 - *(Optional)* **Tailscale** if you want friends outside your home Wi-Fi to join.
 
 ---
@@ -142,8 +144,10 @@ Same Wi-Fi needs nothing extra. For friends elsewhere:
 ## 9. Troubleshooting
 - **"Copy your Big Walk folder…" won't go away** — check the files are at exactly
   `Download/BigWalk` (not `Download/BigWalk/BigWalk`). The app looks for `Big Walk.exe` there.
-- **Server never reaches "Live"** — give it the full ~2 minutes on first start. Keep the phone
-  plugged in and unlocked for the first boot. Check **Details → log** for errors.
+- **Server never reaches "Live" / the app crashes on Start** — first check your phone's RAM: **4 GB
+  (or less) isn't enough and will crash** when the server starts; you need ~6 GB+. If you have enough RAM,
+  give it the full ~2 minutes on first start, keep the phone plugged in and unlocked, and check
+  **Details → log** for errors.
 - **Friends can't connect on Wi-Fi** — make sure everyone is on the same network; the first
   handshake can take up to a minute. For internet, use Tailscale or Epic.
 - **Lag / stutter with several players** — turn on **Stop server voice decoding** (World tab) and

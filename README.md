@@ -34,9 +34,11 @@ the game onto your phone, through setup, hosting, how friends join, internet pla
 ---
 
 ## 📋 Requirements
-- An Android phone (Snapdragon-class; tested on a Snapdragon 680), kept **plugged in** while hosting.
+- An Android phone with **~6 GB RAM minimum (8 GB recommended)**. The server uses ~2.4 GB of RAM, so
+  **4 GB phones crash when you start the server** — this is a hardware limit, not a bug. A Snapdragon-class
+  chip is recommended (tested on a Snapdragon 680). Keep the phone **plugged in** while hosting.
 - **Your own copy of Big Walk** (Steam), copied onto the phone.
-- About **2 GB** of free storage.
+- About **6 GB** of free storage (the game copy plus the app's Windows layer).
 
 ---
 
